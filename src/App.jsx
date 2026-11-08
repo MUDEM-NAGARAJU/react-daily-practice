@@ -13,7 +13,7 @@ function App() {
     <div id="app">
     <Header />
     <div className='mid'>
-    <Profile />,
+    <Profile />
     <Skills />
     </div>
     <Footer />

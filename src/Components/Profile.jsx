@@ -3,7 +3,7 @@ function Profile(){
 
     return (
         <div className="profile">
-            <h2>PORFILE</h2>
+            <h2>PROFILE</h2>
             <ul>
                 <li>Name : NAGARAJU MUDEM</li>
                 <li>Location : Bangalore</li>
