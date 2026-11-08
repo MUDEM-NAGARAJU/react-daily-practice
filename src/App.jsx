@@ -13,7 +13,11 @@ function App() {
     <div id="app">
     <Header />
     <div className='mid'>
+    <br />
+    <br />
     <Profile />
+    <br />
+    <br />
     <Skills />
     </div>
     <Footer />
