@@ -1,0 +1,32 @@
+
+*{
+    margin:0px;
+    padding: 0px;
+}
+.first{
+
+    height: 30vh;
+    width: 50vw;
+    border: 1px dotted  black;
+    margin-top: 35vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    
+}
+
+.first h1{
+
+    color: black;
+    
+
+}
+
+#root{
+
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+}

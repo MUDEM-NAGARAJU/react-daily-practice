@@ -1,0 +1,12 @@
+
+.footer{
+
+    height: 8vh;
+    width:100vw;
+    background-color: orange;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40vh;
+}
